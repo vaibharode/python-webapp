@@ -14,7 +14,7 @@ pool:
 
 variables:
   azureServiceConnection: "AzureWebAppServiceConnection"
-  appName: "myapp98600"
+  appName: "webapp23"
   pythonVersion: "3.12"
   artifactName: "python-app"
 
